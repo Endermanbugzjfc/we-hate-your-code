@@ -1,6 +1,6 @@
 {
   "Endermanbugzjfc/we-hate-your-code" = {
-    reasons = [
+    hates = [
       {
         reason = ''
           Toxic repo
