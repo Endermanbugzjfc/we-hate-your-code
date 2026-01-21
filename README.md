@@ -7,6 +7,8 @@ We Hate Your Code is a place to dislike open sourced repositories
 3. Any content that violates the GitHub ToS is NOT allowed.
 4. You must use your own GitHub username in the submitter and upvoter field, removing existing names or impersonation is NOT allowed under all circumstances, even when that person gives you the permission.
 
+Rules are subject to change.
+
 ## Hates counting
 
 The number of hates of a repository is the sum of upvotes in all reasons.
