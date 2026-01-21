@@ -13,4 +13,6 @@ The number of hates of a repository is the sum of upvotes in all reasons.
 
 If a repository has arbitrary number of reasons but all of the reasons have 0 upvotes, the repository is considered to have 0 hates.
 
+## Submitting / upvoting hates
+
 Simply make pull requests to we-hate-your-code.nix
